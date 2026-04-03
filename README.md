@@ -37,7 +37,14 @@ High-performance scheduling APIs on PostgreSQL. Automated billing validation —
 
 **🍽️ MaMenu** *(Side Project)*
 QR-based digital menu & hotel ops system. Go backend, full RBAC, table & order management.
-[→ github.com/surya-sirisolla/ma-menu](https://github.com/surya-sirisolla/ma-menu)
+[→ github.com/surya-sirisolla/ma-menu](https://github.com/surya-sirisolla/ma-menu
+
+📚 **LeetCode Top 150 — DSA Interview Notes**
+Structured markdown notes for all 150 LeetCode Top Interview questions.
+Covers 16 patterns: Arrays, Two Pointers, Sliding Window, Trees, Graphs, DP, and more.
+Each problem includes intuition, approach, pseudocode, complexity analysis, and key pattern takeaways.
+→ [github.com/surya-sirisolla/leetcode-top-150](https://github.com/surya-sirisolla/leetcode-top-150)
+
 
 ---
 
