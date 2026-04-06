@@ -1,4 +1,4 @@
-# Hi, I'm Jaya Surya 👋
+# Hi, I'm S Jaya Surya 👋
 
 📍 Hyderabad, India &nbsp;|&nbsp; ⚡ Senior Backend Engineer &nbsp;|&nbsp; 🚀 Distributed Systems & Real-Time Architect
 
